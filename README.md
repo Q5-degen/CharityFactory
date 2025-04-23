@@ -22,8 +22,8 @@ Ensure you have the following installed:
 
 1.  **Clone your repository:**
     ```bash
-    git clone <your_repository_url>
-    cd <your_repository_name>
+    git clone https://github.com/Q5-degen/CharityFactory.git
+    cd CharityFactory
     ```
 
 2.  **Install dependencies:**
