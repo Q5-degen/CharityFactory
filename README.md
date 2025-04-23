@@ -51,4 +51,3 @@ This is a separate contract deployed by the `CharityFactory` for each registered
 * **Receiving Donations:** Accepts Ether donations from users.
 * **Tracking Donors:** Records the addresses of users who have donated.
 * **Withdrawal by Owner:** Allows the contract owner (the registered charity account) to withdraw the accumulated donations.
-# CharityFactory
