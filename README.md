@@ -6,7 +6,7 @@ This project implements a `CharityFactory` smart contract that streamlines the p
 
 A key feature is that only the registered charity account that initiated the registration and deployment can withdraw the donated funds from their respective `AddDonations` contract, and this withdrawal is managed through the `CharityFactory`. This design promotes transparency and direct control for each charity over their raised funds.
 
-**Note:** This project is part of a learning exercise within the Cyfrin Updraft smart contract development roadmap. While functional, it may not represent the most robust or secure implementation for a production environment. Future iterations will focus on enhancing security, testing rigor, and code quality as my skills develop through the Cyfrin Updraft course and continued practice.
+**Note:** This project is part of my own learning exercise based on the Cyfrin Updraft smart contract development roadmap. While functional, it may not represent the most robust or secure implementation for a production environment. Future iterations will focus on enhancing security, testing rigor, and code quality as my skills develop through the Cyfrin Updraft course and continued practice.
 
 ## Getting Started
 
