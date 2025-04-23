@@ -28,8 +28,11 @@ Ensure you have the following installed:
 
 2.  **Install dependencies:**
     ```bash
-    forge install
+    1.  Ensure you have [Foundry](https://book.getfoundry.sh/) installed on your system. Follow the instructions on the Foundry website for installation.
+
+    2.  This project utilizes Chainlink price feeds for accessing real-time asset prices. Foundry will automatically handle fetching these contracts during compilation.
     ```
+
 
 ## Contract Summary
 
